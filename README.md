@@ -1,4 +1,4 @@
-Hi, there 👋
+👋Hi,
 I'm Derick Wilfred
 
 Information Technology Student | Software & Web Development | Networks | IT Support

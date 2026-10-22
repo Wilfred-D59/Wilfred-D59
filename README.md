@@ -7,8 +7,6 @@ I'm a Diploma in Computing Information Technology student at the University of D
 
 I have practical exposure to software and web development, network administration, IT support, hardware and systems maintenance, database management, virtualization, and cybersecurity fundamentals.
 
-My goal is to build reliable technology solutions, solve real-world problems, and continue developing my skills through practical projects and professional experience.
-
 ## 🛠️ Technical Skills
 
 **Software & Web Development**
@@ -64,29 +62,6 @@ A web design project showcasing interior spaces, visual presentation and user ex
 
 **University of Dar es Salaam Computing Centre (UCC)**  
 Diploma in Computing Information Technology (DCIT) | 2025–2027
-
-## 🧪 Practical Experience
-
-**Field Practical Training — UCC Headquarters, Dar es Salaam**  
-September 2025 – October 2025
-
-- Performed computer hardware diagnostics, PC assembly and maintenance.
-- Practised LAN configuration and routing using Cisco Packet Tracer.
-- Configured virtual machines and tested cross-platform operating systems.
-- Applied troubleshooting, database and web development fundamentals.
-
-## 📜 Certifications
-
-- Cisco Certified Network Associate (CCNA) Training Certificate
-- Cisco IT Essentials Certificate
-
-## 🎯 Current Goals
-
-- Develop practical software and web applications.
-- Strengthen networking and system administration skills.
-- Build secure, reliable and useful IT solutions.
-- Pursue IT internships, field attachment and entry-level opportunities.
-- Collaborate with developers and technology professionals.
 
 ## 🤝 Let's Connect
 

@@ -3,10 +3,6 @@ I'm Derick Wilfred
 
 Information Technology Student | Software & Web Development | Networks | IT Support
 
-I'm a Diploma in Computing Information Technology student at the University of Dar es Salaam Computing Centre (UCC), Tanzania.
-
-I have practical exposure to software and web development, network administration, IT support, hardware and systems maintenance, database management, virtualization, and cybersecurity fundamentals.
-
 ## 🛠️ Technical Skills
 
 **Software & Web Development**

@@ -1,85 +1,118 @@
-👋Hi,
-I'm Derick Wilfred
+ <h1 align="center">👋 Hi, I'm Derick Wilfred</h1>
 
-Information Technology Student | Software & Web Development | Networks | IT Support
+<p align="center">
+  <b>🎓 Diploma in Computing Information Technology Student at UCC</b>
+</p>
 
-## 🛠️ Technical Skills
+<p align="center">
+  💻 Software & Web Developer • 🌐 Networking & IT Support • 🖥️ Systems Administration
+</p>
 
-**Software & Web Development**
-- HTML5, CSS3, JavaScript
-- Node.js, Express.js, Socket.io
-- PHP, Java, C programming basics
-- RESTful APIs and authentication modules
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
-**Networking & IT Support**
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### ⚙️ Backend & Application Development
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" alt="Microsoft Access" />
+</p>
+
+### 🌐 Networking & IT Support
+
 - Cisco Packet Tracer
-- TCP/IP, LAN configuration and subnetting
-- VLANs, trunking and inter-VLAN routing
+- LAN configuration and TCP/IP fundamentals
+- IP addressing and subnetting
+- VLANs, trunking, and inter-VLAN routing
 - HSRP and network troubleshooting
+- Computer assembly, hardware diagnostics, and maintenance
 
-**Databases**
-- MySQL and MariaDB
-- Microsoft Access
-- XAMPP and phpMyAdmin
-- SQL schema design and relational database modelling
+### 🖥️ Operating Systems & Virtualization
 
-**Systems & Virtualization**
-- Windows administration
-- Ubuntu and Debian Linux
-- QEMU, KVM, VirtualBox and virt-manager
-- Computer assembly, hardware diagnostics and OS installation
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+</p>
 
-**Additional Skills**
-- Cybersecurity fundamentals
-- Graphics design
-- Technical troubleshooting and problem-solving
+Additional tools: QEMU, KVM, virt-manager, XAMPP, and phpMyAdmin.
 
 ## 🚀 Featured Projects
 
-### 1. TRAx / TRA Nexus
+### 🧾 TRAx / TRA Nexus
 A localized tax-management prototype featuring tax registration workflows and revenue calculations, submitted for the TRA Innovation Competition.
 
-### 2. Le Ance Fresh POS & Kitchen Display System
-An offline point-of-sale and real-time kitchen display system designed to operate over a local area network using Node.js, Express and Socket.io.
+**Focus:** Web development, application workflows, and digital tax solutions.
 
-### 3. NetGuard Monitoring System
-A network security and monitoring project focused on log observation, safe computing and access-control management.
+### 🍽️ Le Ance Fresh POS & Kitchen Display System
+An offline point-of-sale system with a real-time kitchen display, designed to operate over a local area network.
 
-### 4. Unified School Management System
-A web application for managing student profiles, academic records and subject tracking.
+**Technologies:** Node.js, Express.js, Socket.IO.
 
-### 5. Hotel Booking & Resort Website
+### 🛡️ NetGuard Monitoring System
+A network security and monitoring project focused on log observation, safe computing, and access-control management.
+
+### 🎓 Unified School Management System
+A web application for student profiles, academic records, and subject tracking.
+
+### 🏨 Hotel Booking & Resort Website
 A website project focused on hospitality presentation and online booking experiences.
 
-### 6. Interior Design Website
-A web design project showcasing interior spaces, visual presentation and user experience.
+### 🏠 Interior Design Website
+A website showcasing interior design, visual presentation, and user experience.
 
 ## 🎓 Education
 
 **University of Dar es Salaam Computing Centre (UCC)**  
 Diploma in Computing Information Technology (DCIT)
 
+## 🎯 Current Goals
+
+- 🚀 Build practical software and web applications.
+- 🌐 Strengthen networking and systems administration skills.
+- 🛡️ Improve my knowledge of cybersecurity and secure system design.
+- 🤝 Gain professional experience through IT internships and real-world projects.
+- 📚 Continue learning and developing useful digital solutions.
+
 ## 🤝 Let's Connect
 
 📍 Dar es Salaam, Tanzania  
-📧 dericowilfred@gmail.com
+📧 [dericowilfred@gmail.com](mailto:dericowilfred@gmail.com)
 
-I'm open to professional learning opportunities, project collaborations, IT internships and entry-level technology roles.
-
-**From concept to creation.**
-
-
-<!--
-**Wilfred-D59/Wilfred-D59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>✨ From concept to creation. ✨</b>
+</p>

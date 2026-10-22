@@ -57,7 +57,7 @@ A web design project showcasing interior spaces, visual presentation and user ex
 ## 🎓 Education
 
 **University of Dar es Salaam Computing Centre (UCC)**  
-Diploma in Computing Information Technology (DCIT) | 2025–2027
+Diploma in Computing Information Technology (DCIT)
 
 ## 🤝 Let's Connect
 
